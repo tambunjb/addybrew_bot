@@ -4,6 +4,10 @@ I have deployed this project publicly.
 👉 To test it directly, **just add `@addybrew_bot` to your Telegram group** and disable its privacy mode via [@BotFather](https://t.me/BotFather).  
 The bot will store skincare product review messages and respond with ✅ confirmation.
 
+## 🚧 Current Limitations
+- 🗨️ **Single Chat Context Only**:  
+  The bot currently only works with messages **contained within a single message**. It does not track or interpret intent spread across multiple sequential messages (i.e., no session or conversational memory yet).
+
 ---
 
 # 🧠 AddyBrew Bot – Skincare Review Insight Bot
