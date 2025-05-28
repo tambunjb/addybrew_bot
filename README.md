@@ -1,3 +1,14 @@
+# <span id="tjidtitle">AddyBrew Bot</span>
+
+<div>Technologies: <span id="tjidtechs">Node.js, Express.js, Axios, PostgreSQL, OpenAI API, Telegram API, Ngrok, text-embedding-3-small</span></div>
+<br />
+<div>Links: 
+  <ul id="tjidlinks">
+    <li>https://t.me/addybrew_bot</li>
+  </ul>
+</div>
+<br />
+
 # 🚨 NOTE: You Can Test My Live Bot @addybrew_bot
 
 I have deployed this project publicly.  
